@@ -29,10 +29,10 @@ Rules:
 ## Run the Project
 
 ```bash
-python game.py
+python main.py
 ```
 
 ## Author
 
-GitHub Beginner Project 🚀
+Sumit kumar maurya 🚀
 
